@@ -1,4 +1,5 @@
 # RandomX
+### As of 9/1/25 Halogen will not use RandomX
 This is a python interface for https://github.com/tevador/randomx , a proof-of-work algorithm
 optimized for general-purpose CPUs, based on random code execution.
 
